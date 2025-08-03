@@ -1,8 +1,8 @@
 Since June 1402, ``Diara`` research group and team created its basic foundations and classified the goals. The main goal of this team is to work on a series of general and passive projects in order to increase individual skills and skills, and finally by using those skills on a series of Commercial projects will work
 
--  Diara-team.ir - Introducing the mechanism of the collection : Official community Diara WebSite - http://diara-team.ir
+-  Diara-team.ir - Introducing the mechanism of the collection : Official community Diara WebSite - https://diara-token.github.io/Diara.ir/
 
-This organization in Github with the help of [Distro](https://github.com/Distro-ir) software foundation is going to carry out a series of important projects in the field of Iranian free software.
+This organization in Github with the help of [Distro](https://github.com/DistroFdn) software foundation is going to carry out a series of important projects in the field of Iranian free software.
 
 <!--
 
